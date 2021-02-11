@@ -1,0 +1,15 @@
+.Pixel {
+	height: 14px;
+  	width: 14px;
+  	border-radius: 50%;
+  	display: inline-block;
+  	margin: 1px;
+}
+
+/*.Pixel {
+	height: 50px;
+  	width: 50px;
+  	border-radius: 50%;
+  	display: inline-block;
+  	margin: 2px;
+}*/
