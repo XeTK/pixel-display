@@ -7,7 +7,7 @@ Flask-Cors==3.0.7
 Flask-RESTful==0.3.6
 idna==2.7
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 load==0.0.3
 MarkupSafe==1.0
 Pillow==5.3.0
